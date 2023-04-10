@@ -1,0 +1,12 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "hello1": "node hello.js 1",
+    "hello1_10": "node hello.js 1 2 3 4 5 6 7 8 9 10",
+    "hello_even": "node hello.js 2 4 6 8 10 12 14 16 18 20"
+  }
+}
